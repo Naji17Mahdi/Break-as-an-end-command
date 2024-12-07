@@ -16,4 +16,5 @@ main()
 	}
 	
 	cout<<( float ) sum / i;
+	getch();
 }
